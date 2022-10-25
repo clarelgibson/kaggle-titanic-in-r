@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/clarelgibson/kaggle-titanic-in-r">
-    <img src="images/icons8-school-100.png" alt="School Admissions Dashboard Logo" height="80">
+    <img src="images/ship.png" alt="Titanic Icon" height="80">
   </a>
 
 <h3 align="center">Kaggle Titanic in R!</h3>
