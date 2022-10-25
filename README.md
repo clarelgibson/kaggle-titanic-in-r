@@ -14,3 +14,6 @@
 
 # About the project
 I am keen to learn some basic machine learning techniques using some of the sample data sets on [Kaggle](https://www.kaggle.com).
+
+# Acknowledgements
+* <a href="https://www.flaticon.com/free-icons/titanic" title="titanic icons">Titanic icons created by berkahicon - Flaticon</a>
