@@ -1,0 +1,16 @@
+# Getting Started with Titanic in R!
+
+## A Notebook by Clare Gibson
+
+This notebook accompanies the [Titanic Tutorial in R!](https://www.kaggle.com/code/krist0phersmith/titanic-tutorial-in-r/notebook) tutorial by [Kris Smith](https://www.kaggle.com/krist0phersmith).
+
+```{r load-packages, message=FALSE, warning=FALSE}
+library(readr)
+library(randomForest)
+library(httr)
+```
+
+```{r load-data}
+train_url <- "https://www.kaggle.com/competitions/titanic/data?select=train.csv"
+train_data <- GET()
+```
